@@ -5,6 +5,11 @@ import java.util.Set;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+Trie implementation used for autocomplete feature.
+Created by Matthew Clark
+*/
+
 public class MyTrieSet  {
     private Node root;
 
