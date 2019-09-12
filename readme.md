@@ -4,7 +4,7 @@ This is the repository for the main "smart" elements of my Google maps clone, wh
 
 Uploaded files are one's I created from scratch.
 
-App: mapsproj.herokuapp.com (Using free service, so app may be slow to load)
+[Map App](http://mapsproj.herokuapp.com) (Using free service, so app may be slow to load)
 
 ***Functionality I provided***
  - Map rastering: Given coordinates of a region and a window size, determine the correct images and resolutions to serve up.
