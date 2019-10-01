@@ -3,6 +3,7 @@
 This is the repository for the main "smart" elements of my Google maps clone, which were entirely composed by me. This is an academic project that was apart of UC Berkeley's 61B. Most of the frontend elements were developed by UC Berkeley while I provided methods that figure out what data to display to the browser.
 
 Uploaded files are one's I created from scratch.
+In addition to the files posted, I implemented methods that were responsible for rastering images and determining which data to server the front-end.
 
 [Map App](http://mapsproj.herokuapp.com) (Using free service)
 
