@@ -11,7 +11,7 @@ In addition to the files posted, I implemented methods that were responsible for
  - Routing: Given start and end longitute and latitudes, determine the street directions for the trip. 
  - Autocomplete: Given a string, return all locations that match that string and substring. 
  
- [Map App](http://mapsproj.herokuapp.com) *** Not currently enabled with SSL ***
+ [Map App](http://mapsproj.herokuapp.com) *** Currently doesn't support HTTPS ***
  
  **Directions of Use**
   - To find a route: Double click on your desired starting location, then double click on your desired ending location.
